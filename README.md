@@ -42,8 +42,8 @@
 
 ### 📫 Let's Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/likhith-2397a825a/)  
-- 💼 [Resume (on request)]  
-- 📧 likhithm44@gmail.com
+- 📄 [View My Resume](https://drive.google.com/file/d/1RqlEI4ULE72WmAxXLJx2SArO-jIkpdVs/view?usp=drivesdk)  
+- 📧 likhithm44@gmail.com  
 
 ---
 
