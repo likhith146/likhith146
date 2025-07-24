@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Likhith M</h1>
+<h3 align="center">AI/ML Enthusiast | Developer | Problem Solver</h3>
 
-<!--
-**likhith146/likhith146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 I'm currently pursuing my B.E. in Artificial Intelligence & Machine Learning at Mangalore Institute of Technology & Engineering. I’m passionate about building real-world solutions that make a positive impact on people’s lives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 My key innovation is *Signum Verbum* – an AI-powered assistive communication system for the differently-abled. It was awarded *₹4.5 Lakhs* in funding under the *Government of Karnataka's Startup Karnataka NAIN 2.0 initiative*.
+
+---
+
+### 👨‍💻 Projects I've Built
+- *Signum Verbum* – NLP and ML-based assistive tool for the speech/hearing/visually impaired.  
+  [🔗 GitHub Repo](https://github.com/likhith146/signum-verbum)
+
+- *Face Recognition Attendance System* – Smart system that logs faces in real-time using OpenCV and machine learning.  
+  [🔗 GitHub Repo](https://github.com/likhith146/Face-recognition-Attendence-System)
+
+- *Hostel Outing Management System* – Streamlined student outing permissions using C programming.  
+  [🔗 GitHub Repo](https://github.com/likhith146/Hostel-Outing-Management)
+
+- *AI-Integrated Fitness Tracker* – Personalized AI fitness coach using pose detection and adaptive training logic.
+
+---
+
+### 🧠 Skills & Tools
+- *Languages:* Python, C, C++  
+- *Web:* HTML, CSS, JavaScript  
+- *Databases:* SQL, MongoDB, NoSQL  
+- *Tools & Platforms:* GitHub, VS Code, Power BI, Tableau, Anaconda, Solid Edge  
+- *Domains:* AI/ML, NLP, Computer Vision, Web Dev, Data Visualization
+
+---
+
+### 📈 Achievements
+- 🏆 ₹4.5L Startup Grant – Govt. of Karnataka (NAIN 2.0)  
+- 🥇 Top 5 – 24hr Hackathon by IEEE at R.V. College, Bengaluru  
+- 🚀 Final Round – Smart India Hackathon 2024  
+- 🎭 Cultural Coordinator & Active Participant – College Fest & Department Events
+
+---
+
+### 📫 Let's Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/likhith-2397a825a/)  
+- 💼 [Resume (on request)]  
+- 📧 likhithm44@gmail.com
+
+---
+
+🌱 I’m always learning and building projects that merge innovation with purpose. Let's collaborate to solve real-world problems using tech!
