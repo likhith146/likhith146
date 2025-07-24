@@ -23,20 +23,9 @@
 
 ---
 
-### 🧠 Skills & Tools
-- *Languages:* Python, C, C++  
-- *Web:* HTML, CSS, JavaScript  
-- *Databases:* SQL, MongoDB, NoSQL  
-- *Tools & Platforms:* GitHub, VS Code, Power BI, Tableau, Anaconda, Solid Edge  
-- *Domains:* AI/ML, NLP, Computer Vision, Web Dev, Data Visualization
 
 ---
 
-### 📈 Achievements
-- 🏆 ₹4.5L Startup Grant – Govt. of Karnataka (NAIN 2.0)  
-- 🥇 Top 5 – 24hr Hackathon by IEEE at R.V. College, Bengaluru  
-- 🚀 Final Round – Smart India Hackathon 2024  
-- 🎭 Cultural Coordinator & Active Participant – College Fest & Department Events
 
 ---
 
